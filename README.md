@@ -2,7 +2,7 @@
  * @Author: 皇甫国贝
  * @Date: 2019-10-11 14:54:59
  * @LastEditors: 皇甫国贝
- * @LastEditTime: 2019-10-11 15:23:55
+ * @LastEditTime: 2019-10-11 15:37:21
  * @Description: 
  -->
 # TypeScript
@@ -36,4 +36,4 @@ npm run lint
 ```
 tsc '文件名'
 ```
- x 
+sdad s
